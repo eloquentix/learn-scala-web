@@ -6,3 +6,5 @@
 /target/
 .idea/
 .sbtserver/
+project/.sbtserver
+project/.sbtserver.lock
